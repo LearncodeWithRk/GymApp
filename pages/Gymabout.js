@@ -6,7 +6,7 @@ function Gymabout() {
     <section className="py-10 bg-white sm:py-16 lg:py-4">
 
 <div className="container mx-auto 2xl:px-12">
-        <Image className="w-full mt-6" src="https://res.cloudinary.com/dysxcljt2/image/upload/v1695906358/gym%20template/aboutuss_ygtwny.png" alt="" width={1920} height={1920}></Image>
+        <Image className="w-full mt-0" src="https://res.cloudinary.com/dysxcljt2/image/upload/v1695906358/gym%20template/aboutuss_ygtwny.png" alt="" width={1920} height={1920}></Image>
     </div>
     <div className="max-w-6xl px-4 mx-auto sm:px-6 lg:px-8">
         
